@@ -1,4 +1,16 @@
 export default class Example {
+    /*
+    *
+    *
+    *
+    *
+    * just to increase file length
+    *
+    *
+    *
+    *
+    * */
+
     static async exampleMethod() {
         const someArray = []
         let condition1;
@@ -42,6 +54,18 @@ export default class Example {
 
         return someArray
     }
+
+    /*
+*
+*
+*
+*
+* just to increase file length
+*
+*
+*
+*
+* */
 
 }
 
